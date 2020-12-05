@@ -1,0 +1,16 @@
+{
+  "name": "diffi-hellman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Roman Turaj",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.48",
+    "nodemon": "^2.0.6",
+    "number-theory": "^1.1.0"
+  }
+}
